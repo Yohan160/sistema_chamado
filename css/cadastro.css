@@ -13,6 +13,7 @@ body{
     list-style: none;
     display: flex;
     gap: 30px; /* Aqui é onde você define o espaço entre os links */
+    justify-content: flex-end;
 }
 
 .nav-links li {
@@ -63,4 +64,27 @@ body{
     .menu-toggle {
         display: flex;
     }
+}
+
+.Configurações{
+    color: white;
+    background-color: black;
+    border-radius: 100px;
+    padding: 30px;
+    width: 200px;
+    height: 100px;
+    margin: 50px;
+    margin-right: 600px;
+    margin-bottom: 100px;
+    display: block;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.chamado{
+    font-size: 20px;
+    border-radius: 100px;
+    width: 300px;
+    height: 80px;
+    margin-left: 150px;
 }
