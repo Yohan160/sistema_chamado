@@ -88,3 +88,18 @@ body{
     height: 80px;
     margin-left: 150px;
 }
+
+.Perfil{
+    border-radius: 100px;
+    width: 140px;
+    height: 70px;
+    float: right;
+    position: absolute;
+    top: 100px;
+    right: 0px;
+    left: 1700px;
+    float: left;
+    text-align: left;
+    padding: 16px;
+    font-size: 25px;
+}
