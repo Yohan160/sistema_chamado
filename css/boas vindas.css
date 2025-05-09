@@ -111,3 +111,12 @@ header{
     background-color: #00000083;
     padding: 20px;
 }
+
+.Chamado{
+    border-radius: 60px;
+    height: 100px;
+    width: 300px;
+    position: absolute;
+    right: 100px;
+    bottom: 250px;
+}
