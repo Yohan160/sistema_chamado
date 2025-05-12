@@ -24,9 +24,9 @@ body{
       label, input {
         display: block;
         margin-bottom: 10px;
-        width: 500px;
-        height:30px;
-        padding: 10px;
+        width: 590px;
+        height: 70px;
+        padding: 20px;
         margin-top: 20px;
        
 }
@@ -103,7 +103,7 @@ body{
     margin-left: 20px;
     margin-right: 10px;
     height: 70px;
-    width: 190px;
+    width: 260px;
     border-radius: 100px;
 }
 
